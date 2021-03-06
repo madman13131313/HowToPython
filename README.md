@@ -1,2 +1,2 @@
 # HowToPython
-Some codes helping learning python
+Some codes helping me learning python
